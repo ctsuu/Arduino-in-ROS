@@ -51,3 +51,10 @@ You need goto sketch>include library>Manager Libraries>Library Manager, search f
  <img src="./rosserial_arduino_library.png" width="800">
 </p>
 
+Now you will see the rosserial arduino library under examples> examples from custom libraries. Open any of the example, make sure the following code is there: 
+```
+#include <ros.h>
+#include <std_msgs/String.h>
+```
+Verify and upload. 
+That it is. 
