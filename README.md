@@ -47,4 +47,7 @@ The program will create new ros_lib under sketchbook.
 
 Reboot the computer, open the arduino IDE, you would not see the new ros_lib in the example manual. 
 You need goto sketch>include library>Manager Libraries>Library Manager, search for "rosserial" and install. 
+<p align="center">
+ <img src="./rosserial_arduino_library.png" width="800">
+</p>
 
